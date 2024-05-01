@@ -6,9 +6,7 @@ Iterate over the input once, inserting each element into a `std::unordered_set`.
 
 ## Complexity
 #### Time: O(n)
-
 In the worst case, we iterate over all n elements of the input once. In each iteration, we call `std::unordered_set::insert`, which is O(1) on average.
 
 #### Space: O(n)
-
 We use a `std::unordered_set` that contains at most n elements.
