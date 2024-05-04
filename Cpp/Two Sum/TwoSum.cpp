@@ -1,7 +1,5 @@
 #include "gtest/gtest.h"
 
-#include <iostream>
-#include <functional>
 #include <vector>
 #include <string>
 #include <unordered_map>

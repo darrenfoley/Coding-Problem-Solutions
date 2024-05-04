@@ -1,9 +1,7 @@
 #include "gtest/gtest.h"
 
-#include <iostream>
 #include <vector>
 #include <unordered_set>
-#include <unordered_map>
 
 bool containsDuplicate(const std::vector<int>& nums)
 {

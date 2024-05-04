@@ -1,8 +1,5 @@
 #include "gtest/gtest.h"
 
-#include <iostream>
-#include <functional>
-#include <tuple>
 #include <string>
 #include <vector>
 
