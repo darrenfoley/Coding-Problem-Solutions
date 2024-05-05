@@ -101,12 +101,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Contains Duplicate\ContainsDuplicate.cpp" />
+    <ClCompile Include="Group Anagrams\GroupAnagrams.cpp" />
     <ClCompile Include="Two Sum\TwoSum.cpp" />
     <ClCompile Include="Valid Anagram\ValidAnagram.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
     <None Include="Contains Duplicate\README.md" />
+    <None Include="Group Anagrams\README.md" />
     <None Include="packages.config" />
     <None Include="Two Sum\README.md" />
     <None Include="Valid Anagram\README.md" />
