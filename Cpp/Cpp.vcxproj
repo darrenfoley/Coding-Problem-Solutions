@@ -102,6 +102,7 @@
   <ItemGroup>
     <ClCompile Include="Contains Duplicate\ContainsDuplicate.cpp" />
     <ClCompile Include="Group Anagrams\GroupAnagrams.cpp" />
+    <ClCompile Include="Longest Consecutive Sequence\LongestConsecutiveSequence.cpp" />
     <ClCompile Include="Product of Array Except Self\ProductOfArrayExceptSelf.cpp" />
     <ClCompile Include="Top K Frequent Elements\TopKFrequentElements.cpp" />
     <ClCompile Include="Two Sum\TwoSum.cpp" />
@@ -111,6 +112,7 @@
     <None Include=".gitignore" />
     <None Include="Contains Duplicate\README.md" />
     <None Include="Group Anagrams\README.md" />
+    <None Include="Longest Consecutive Sequence\README.md" />
     <None Include="packages.config" />
     <None Include="Product of Array Except Self\README.md" />
     <None Include="Top K Frequent Elements\README.md" />
