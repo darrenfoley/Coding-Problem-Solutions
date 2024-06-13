@@ -2,7 +2,7 @@
 {
     public class ContainsDuplicateTests
     {
-        public bool ContainsDuplicate(int[] nums)
+        public static bool ContainsDuplicate(int[] nums)
         {
             HashSet<int> set = new();
 

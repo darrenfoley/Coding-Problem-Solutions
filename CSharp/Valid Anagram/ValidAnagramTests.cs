@@ -2,7 +2,7 @@ namespace CSharp
 {
     public class ValidAnagramTests
     {
-        public bool IsAnagram(string s, string t)
+        public static bool IsAnagram(string s, string t)
         {
             if (s.Length != t.Length)
             {
