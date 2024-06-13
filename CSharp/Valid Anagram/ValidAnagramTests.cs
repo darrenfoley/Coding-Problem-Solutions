@@ -1,6 +1,6 @@
 namespace CSharp
 {
-    public class ValidAnagram
+    public class ValidAnagramTests
     {
         public bool IsAnagram(string s, string t)
         {
