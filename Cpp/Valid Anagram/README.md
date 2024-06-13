@@ -8,7 +8,7 @@ Start by checking that the strings are the same length. Then, loop over the char
 #### Time: O(n)
 In the best case, the strings aren't equal length and it's O(1) time.
 
-Otherwise, we loop through the strings once to count the occurances of each letter which is O(n). Then we call `std::equals` or loop over the arrays, which is O(26) or O(1). This simplifies to O(n) overall.
+Otherwise, we loop through the strings once to count the occurences of each letter which is O(n). Then we call `std::equals` or loop over the arrays, which is O(26) or O(1). This simplifies to O(n) overall.
 
 #### Space: O(1)
 We use 2 arrays of constant size 26 each, so O(1).
