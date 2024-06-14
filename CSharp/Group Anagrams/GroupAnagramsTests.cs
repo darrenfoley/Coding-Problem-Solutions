@@ -1,4 +1,4 @@
-﻿namespace CSharp.Group_Anagrams
+﻿namespace CSharp
 {
     public class GroupAnagramsTests
     {
